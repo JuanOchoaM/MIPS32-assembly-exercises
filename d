@@ -1,0 +1,7 @@
+lw $s3, 4($s5)
+nop
+nop
+nop
+sw $s3, 0($s4)
+or $s5, $s3, $s4
+and $s7, $s4, $s5
