@@ -1,4 +1,4 @@
-# Computer Assembly Exercises
+# Computer Assembly
 
 This repository contains a collection of computer architecture exercises written in assembly language using QTSPIM.
 
